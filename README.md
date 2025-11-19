@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Yo! gue Ariff {{ Manusia ½ Human }}, 🖱 Web Developer yang kerjaannya ngulik, ngoding, terus rebahan mikirin bug 💥 sambil nyeruput kopi biar tetep waras hehe🤓
 
 
 ## 🌐 Socials:
