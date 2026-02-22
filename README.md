@@ -1,5 +1,5 @@
 # 💫 About Me:
-Yo! gue Ariff {{ Manusia ½ Human }}, 🖱 Web Developer yang kerjaannya ngulik, ngoding, terus rebahan mikirin bug 💥 sambil nyeruput kopi biar tetep waras heh (sok asik bet) 🤓
+Yo! gue Ariff {{ Manusia ½ Human }}, 🖱 Web Developer yang kerjaannya ngulik, ngoding, terus rebahan mikirin bug 💥 sambil nyeruput kopi biar tetep waras hehehe (sok asik bet) 🤓
 
 
 ## 🌐 Socials:
