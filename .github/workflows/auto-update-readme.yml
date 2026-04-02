@@ -21,16 +21,11 @@ jobs:
 
       - name: Update README File
         run: |
-          # Menambahkan baris waktu update ke README.md
-          echo " Update: $(date '+%Y-%m-%d %H:%M:%S')" >> README.md
-          
-          # Konfigurasi identitas Bot
+          TIME=$(date '+%Y-%m-%d %H:%M:%S')
+          CONTENT="> 🕒 **Last Update:** $TIME WIB"
+          perl -i -pe "BEGIN{undef $/;} s/.*?/\n$CONTENT\n/s" README.md
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Proses commit
           git add README.md
-          git commit -m "Auto update README $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
-          
-          # Proses push balik ke repository
+          git commit -m "Auto update README $TIME" || echo "No changes to commit"
           git push
