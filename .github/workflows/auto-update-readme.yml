@@ -3,18 +3,23 @@ name: Auto Update README
 on:
   workflow_dispatch:  # memungkinkan manual run
   schedule:
-    - cron: '0 7 * * *'   # 13:57 WIB
+    - cron: '1 7 * * *'   # 13:57 WIB
     - cron: '0 9 * * *'    # 16:00 WIB
     - cron: '5 9 * * *'    # 16:05 WIB
     - cron: '10 9 * * *'   # 16:10 WIB
     - cron: '15 9 * * *'   # 16:15 WIB
     - cron: '20 9 * * *'   # 16:20 WIB
 
+# --- TAMBAHKAN INI ---
+permissions:
+  contents: write
+# ---------------------
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Update ke v4 biar gak kena warning Node.js
       - name: Update README
         run: |
           echo "Update: $(date '+%Y-%m-%d %H:%M:%S')" >> README.md
