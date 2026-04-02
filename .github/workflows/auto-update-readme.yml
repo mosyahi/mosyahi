@@ -1,0 +1,24 @@
+name: Auto Update README
+
+on:
+  schedule:
+    # WIB = UTC+7, jadi 16:00 WIB = 09:00 UTC
+    - cron: '0 9 * * *'
+    - cron: '5 9 * * *'
+    - cron: '10 9 * * *'
+    - cron: '15 9 * * *'
+    - cron: '20 9 * * *'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update README
+        run: |
+          echo "Update: $(date '+%Y-%m-%d %H:%M:%S')" >> README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Auto update README $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
+          git push
