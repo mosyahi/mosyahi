@@ -1,5 +1,7 @@
 
+<!-- START -->
 > 🕒 **Last Update:** 2026-04-02 17:00:00 WIB
+<!-- END -->
 
 # 💫 About Me:
 Yo! gue Ariff | Web Developer. Kerjaannya ngoding, nyari bug, dan bertahan hidup dengan kopi, sekian.
