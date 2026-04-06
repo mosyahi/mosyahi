@@ -1,5 +1,5 @@
 # 💫 About Me:
-Yo! gue Ariff | Web Developer. Kerjaannya ngoding, nyari bug, dan bertahan hidup dengan kopi, sekian. aaa
+Yo! gue Ariff | Web Developer. Kerjaannya ngoding, nyari bug, dan bertahan hidup dengan kopi, sekian.
 
 
 ## 🌐 Socials:
