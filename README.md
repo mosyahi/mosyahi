@@ -1,6 +1,5 @@
 # 💫 About Me:
-Yo! gue Ariff | Web Developer. Kerjaannya ngoding, nyari bug, dan bertahan hidup dengan kopi, sekian....
-
+Yo! gue Ariff | Web Developer. Kerjaannya ngoding, nyari bug, dan bertahan hidup dengan kopi, sekian...
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mochsyarifhidayat13) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mosyahizuku)
