@@ -1,8 +1,11 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b1020,45:1d4ed8,100:06b6d4&amp;height=220&amp;section=header&amp;text=Hey,%20I'm%20Ariff&amp;fontSize=53&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Fullstack%20Developer%20%7C%20Backend%20Developer%20%7C%20Software%20Engineer&amp;descSize=15&amp;descAlignY=59" width="100%" alt="Ariff — Fullstack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b1020,45:1d4ed8,100:06b6d4&amp;height=210&amp;section=header&amp;text=Hey,%20I'm%20Ariff&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Fullstack%20Developer%20%7C%20Backend%20Developer%20%7C%20Software%20Engineer&amp;descSize=15&amp;descAlignY=59" width="100%" alt="Hey, I'm Ariff" />
 
-<a href="https://github.com/mosyahi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2800&amp;pause=1100&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=580&amp;lines=PHP+%2F+Laravel+%2F+REST+API;Backend%2C+database%2C+dan+server;Web+development+is+my+daily+thing;Lagi+belajar+Flutter+%26+Dart" alt="Animated introduction" /></a>
+**Fullstack Developer · Backend Developer · Software Engineer**
+
+`Web Development` · `REST API` · `Database` · `Linux Server` · `Learning Flutter`
 
 <br />
 
@@ -13,33 +16,33 @@
 <br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=mosyahi&amp;label=Profile%20views&amp;color=2563eb&amp;style=flat" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/mosyahi?label=Followers&amp;style=flat&amp;color=0891b2" alt="GitHub followers" />
+<img src="https://img.shields.io/github/followers/mosyahi?label=Followers&amp;style=flat&amp;color=0891b2" alt="Followers" />
 
 </div>
 
 ## 👋 Halo, gue Ariff
 
-Gue ngerjain web dari tampilan sampai backend. Tapi emang lebih sering main di belakang layar: **API, autentikasi, database, sama urusan server**.
+Gue biasa ngerjain aplikasi web dari frontend sampai backend. Tapi lebih seringnya ngurus **API, autentikasi, database, dan server**.
 
-Biasanya pakai **PHP, Laravel, CodeIgniter, dan JavaScript**. Kalau udah urusan deploy, lumayan sering ketemu **Ubuntu, Nginx, SSH**, dan konfigurasi server.
+Sehari-hari banyak pakai **PHP, Laravel, CodeIgniter, dan JavaScript**. Kalau sudah urusan deploy, biasanya ketemu **Ubuntu, Nginx, SSH**, dan konfigurasi server lainnya.
 
-Sekarang juga lagi belajar **Flutter & Dart** sambil ngerjain aplikasi sendiri. Belum bisa dibilang jago mobile, tapi pelan-pelan jalan.
+Sekarang juga lagi belajar **Flutter & Dart** sambil ngerjain aplikasi mobile sendiri. Masih belajar, jadi fokus utama gue tetap di web dan backend.
 
-Di GitHub ini isinya campur: project yang lagi digarap, repo latihan, sama beberapa eksperimen.
+Repo di sini isinya campur: project yang lagi dikerjain, latihan, sama beberapa eksperimen kecil.
 
 ## 🧰 Tech stack
 
 <div align="center">
 
-**Yang paling sering gue pakai**
+**Yang sering dipakai**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,postgres,git&amp;theme=dark" alt="Main stack" />
+<img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,postgres,git&amp;theme=dark" alt="PHP, Laravel, JavaScript, HTML, CSS, MySQL, PostgreSQL, Git" />
 
 <br /><br />
 
 **Frontend & web**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind&amp;theme=dark" alt="Frontend stack" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind&amp;theme=dark" alt="React, Next.js, Bootstrap, Tailwind CSS" />
 
 <br /><br />
 
@@ -50,25 +53,25 @@ Di GitHub ini isinya campur: project yang lagi digarap, repo latihan, sama beber
 <br />
 
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&amp;logo=codeigniter&amp;logoColor=white" alt="CodeIgniter" />
-<img src="https://img.shields.io/badge/REST%20API-1e40af?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/REST%20API-1e40af?style=for-the-badge&amp;logo=swagger&amp;logoColor=white" alt="REST API" />
 
 <br /><br />
 
-**Mobile & local database**
+**Mobile & database lokal**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,sqlite&amp;theme=dark" alt="Flutter Dart SQLite" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,sqlite&amp;theme=dark" alt="Flutter, Dart, SQLite" />
 
 <br /><br />
 
 **Linux, server & deployment**
 
-<img src="https://skillicons.dev/icons?i=ubuntu,linux,nginx,cloudflare,vercel&amp;theme=dark" alt="Server and deployment" />
+<img src="https://skillicons.dev/icons?i=ubuntu,linux,nginx,cloudflare,vercel&amp;theme=dark" alt="Ubuntu, Linux, Nginx, Cloudflare, Vercel" />
 
 <br /><br />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=github,gitlab,vscode,postman,bash&amp;theme=dark" alt="Developer tools" />
+<img src="https://skillicons.dev/icons?i=github,gitlab,vscode,postman,bash&amp;theme=dark" alt="GitHub, GitLab, VS Code, Postman, Bash" />
 
 <br />
 
@@ -76,69 +79,71 @@ Di GitHub ini isinya campur: project yang lagi digarap, repo latihan, sama beber
 
 </div>
 
-## 🖥️ Biasanya ngapain?
+## 🖥️ Yang biasa gue kerjain
 
-| Area | Yang gue kerjain |
+| Area | Ngapain aja? |
 | :--- | :--- |
-| **Web** | Bikin tampilan, fitur, form, dashboard, dan integrasi frontend–backend. |
-| **Backend** | Ngerjain REST API, autentikasi, business logic, dan pengolahan data. |
-| **Database** | MySQL, PostgreSQL, dan SQLite buat kebutuhan yang beda-beda. |
-| **Server** | Setup dan troubleshooting aplikasi di Ubuntu/Linux, Nginx, SSH, sampai deployment. |
-| **Mobile** | Lagi belajar Flutter: nyusun UI, navigasi, state, dan koneksi ke backend. |
+| **Web** | Bikin tampilan, dashboard, form, dan integrasi frontend sama backend. |
+| **Backend** | REST API, autentikasi, business logic, dan integrasi layanan. |
+| **Database** | Ngurus data pakai MySQL, PostgreSQL, dan SQLite. |
+| **Server** | Setup, deploy, dan troubleshooting aplikasi di Ubuntu/Linux pakai Nginx dan SSH. |
+| **Mobile** | Lagi belajar Flutter, dari UI sampai koneksi ke backend. |
 
 ## 📁 Project & repo
 
-### 💸 Pundiku — personal finance app
+### 💸 Pundiku — aplikasi catatan keuangan
 
-Project pribadi yang lagi gue kerjain. Aplikasi mobile-nya pakai **Flutter**, backend-nya **Laravel REST API**. Fokusnya buat nyatet dan ngatur keuangan: transaksi, dompet, budget, tabungan, dan laporan.
+Project pribadi yang lagi gue kerjain. Aplikasi mobile-nya pakai **Flutter**, backend-nya **Laravel REST API**. Rencananya buat nyatet transaksi, dompet, budget, tabungan, dan laporan keuangan.
 
-Masih dalam proses, terutama di bagian Flutter dan integrasi ke backend. Jadi belum gue anggap project yang udah selesai.
+Masih proses, terutama di bagian Flutter dan integrasi ke API. Belum rilis publik.
 
-### 🔐 Backend experiments
+### 🔐 Repo backend
 
-Ada juga beberapa repo publik buat ngulik backend dan autentikasi:
+| Repository | Isi |
+| :--- | :--- |
+| [**auth-service-go**](https://github.com/mosyahi/auth-service-go) | Eksperimen bikin service autentikasi pakai Go. |
+| [**auth-laravel-12**](https://github.com/mosyahi/auth-laravel-12) | Project backend Laravel 12 buat ngulik autentikasi. |
 
-<div align="center">
+### 🧩 Repo kecil lainnya
 
-<a href="https://github.com/mosyahi/auth-service-go"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mosyahi&amp;repo=auth-service-go&amp;theme=tokyonight&amp;hide_border=true" alt="auth-service-go repository" /></a>
-<a href="https://github.com/mosyahi/auth-laravel-12"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mosyahi&amp;repo=auth-laravel-12&amp;theme=tokyonight&amp;hide_border=true" alt="auth-laravel-12 repository" /></a>
+| Repository | Isi |
+| :--- | :--- |
+| [**date-range-filtering**](https://github.com/mosyahi/date-range-filtering) | Eksperimen filter tanggal. |
+| [**js-format-rupiah**](https://github.com/mosyahi/js-format-rupiah) | Format angka rupiah di JavaScript. |
+| [**js-real-datetime**](https://github.com/mosyahi/js-real-datetime) | Eksperimen tanggal dan waktu di JavaScript. |
 
-</div>
-
-Buat repo lain, bisa langsung cek [tab Repositories](https://github.com/mosyahi?tab=repositories).
+Lihat repo lain di [GitHub repositories](https://github.com/mosyahi?tab=repositories).
 
 ## 📊 GitHub activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mosyahi&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosyahi&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Most used languages in public repositories" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=mosyahi&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mosyahi&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Languages in GitHub repositories" />
 
-<br />
+<br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mosyahi&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="96%" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mosyahi&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="96%" alt="GitHub activity graph" />
 
 </div>
 
-<details>
-<summary><b>🐍 Contribution snake (klik buat lihat)</b></summary>
-<br />
+## 🐍 Contribution snake
 
 <div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mosyahi/mosyahi/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mosyahi/mosyahi/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation based on GitHub contributions" src="https://raw.githubusercontent.com/mosyahi/mosyahi/output/github-contribution-grid-snake.svg" width="95%" />
+  <img src="https://raw.githubusercontent.com/mosyahi/mosyahi/output/github-contribution-grid-snake.svg" width="96%" alt="Contribution snake animation" />
 </picture>
+
 </div>
 
-</details>
+## 🔎 Lagi ngulik
 
-## 🔎 Sekarang lagi ngulik
-
-- **Flutter & Dart**, terutama UI, state management, navigasi, dan komunikasi ke API.
-- **Laravel backend**, termasuk alur auth, permission, dan fitur-fitur di Pundiku.
-- **Deploy & server**, biar bukan cuma jalan di laptop sendiri.
+- **Flutter & Dart** — UI, navigasi, state management, dan koneksi ke API.
+- **Laravel backend** — autentikasi, permission, dan fitur-fitur di Pundiku.
+- **Deploy & server** — biar aplikasi nggak cuma jalan di laptop sendiri.
 
 ---
 
@@ -146,7 +151,7 @@ Buat repo lain, bisa langsung cek [tab Repositories](https://github.com/mosyahi?
 
 Kalau mau ngobrol soal web, backend, atau project, bisa lewat [LinkedIn](https://linkedin.com/in/mochsyarifhidayat13).
 
-<sub>Terima kasih udah mampir. ☕</sub>
+<sub>Makasih udah mampir. ☕</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06b6d4,50:1d4ed8,100:0b1020&amp;height=110&amp;section=footer" width="100%" alt="Footer" />
 
