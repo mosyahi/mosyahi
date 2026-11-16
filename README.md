@@ -1,9 +1,157 @@
-# 💫 About Me:
-Yo! gue Ariff | Web Developer. Kerjaannya ngoding, nyari bug, dan bertahan hidup dengan kopi, sekian...
+ 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mochsyarifhidayat13) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mosyahizuku)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1d4ed8,100:06b6d4&height=220&section=header&text=Hey,%20I'm%20Ariff!&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Bug%20Hunter%20%E2%80%A2%20Coffee%20Enthusiast&descSize=18&descAlignY=58" width="100%" alt="Ariff's Profile Banner" />
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<!-- last-auto-update: 2026-11-16 05:12:28 UTC -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+corner+of+GitHub!;Turning+coffee+into+code...;Building+cool+things+for+the+web;99+bugs+in+the+code...+127+bugs+now" alt="Typing SVG" />
+
+<br/>
+
+**`< Developer by day, debugger by night />`**
+
+*Writing code, breaking things, fixing them, and pretending it was all part of the plan.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mochsyarifhidayat13)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mosyahizuku)
+
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+```javascript
+const ariff = {
+    role: "Web Developer",
+    location: "Indonesia 🇮🇩",
+    passion: ["Coding", "Problem Solving", "Web Development"],
+    fuel: "Coffee ☕",
+    dailyRoutine: [
+        "Write code 💻",
+        "Find bugs 🐛",
+        "Fix bugs 🔧",
+        "Repeat 🔁"
+    ],
+    motto: "If it works, don't touch it. (Just kidding... maybe)"
+};
+```
+
+Yo! 👋 Gue **Ariff**, seorang Web Developer yang suka mengeksplorasi teknologi, membangun sesuatu untuk web, dan menyelesaikan masalah yang kadang gue ciptakan sendiri. 😅
+
+Di balik setiap baris kode, ada rasa penasaran, secangkir kopi, dan satu pertanyaan abadi:
+
+**"Kok tadi jalan, sekarang error?"**
+
+- 🚀 Suka membangun aplikasi web dan mengutak-atik teknologi.
+- 🧩 Menikmati proses problem solving, walaupun bug kadang lebih kreatif daripada developernya.
+- 🌱 Selalu ada hal baru untuk dipelajari.
+- ☕ Coffee-powered developer, powered by curiosity.
+
+---
+
+### ⚡ My Tech Arsenal
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=go,js,html,php&theme=dark" alt="Programming Languages" />
+
+**Frontend & UI**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap&theme=dark" alt="Frontend Technologies" />
+
+**Backend & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=nodejs,laravel&theme=dark" alt="Backend Technologies" />
+
+<br/>
+
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases" />
+
+**Infrastructure & Deployment**
+
+<img src="https://skillicons.dev/icons?i=nginx,cloudflare,vercel&theme=dark" alt="Infrastructure" />
+
+**Tools & Version Control**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman&theme=dark" alt="Developer Tools" />
+
+</div>
+
+---
+
+### 🖥️ Developer Console
+
+```bash
+ariff@localhost:~$ whoami
+> Web Developer | Professional Bug Hunter
+
+ariff@localhost:~$ cat motivation.txt
+> Build. Break. Learn. Repeat.
+
+ariff@localhost:~$ npm run life
+> Brewing coffee... ☕
+> Writing code... 💻
+> Finding bugs... 🐛
+> Fixing bugs... 🔧
+> Deployment successful! 🚀
+
+ariff@localhost:~$ echo "Keep shipping."
+> Keep shipping.
+```
+
+---
+
+### 🧠 Developer Philosophy
+
+<div align="center">
+
+**Code. Create. Debug. Repeat.**
+
+*"Great things are built one commit, one mistake, and one cup of coffee at a time."*
+
+<br/>
+
+**Life Cycle of a Developer**
+
+`☕ Coffee` → `💻 Code` → `🐛 Bug` → `🔧 Debug` → `🚀 Deploy` → `🔁 Repeat`
+
+</div>
+
+---
+
+### 🤝 Let's Connect!
+
+<div align="center">
+
+Punya ide keren, mau ngobrol soal teknologi, atau sekadar sharing pengalaman debugging?
+
+**Let's build something awesome together!**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mochsyarifhidayat13)
+[![X](https://img.shields.io/badge/Follow_Me-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mosyahizuku)
+
+<br/>
+
+```text
+while (alive) {
+    eat();
+    sleep();
+    code();
+    coffee();
+    repeat();
+}
+```
+
+**Thanks for stopping by! ⭐**
+
+*May your code compile, your tests pass, and your coffee never run out.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:020617&height=120&section=footer" width="100%" alt="Footer" />
+
+</div>
